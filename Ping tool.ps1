@@ -1,3 +1,11 @@
+Author: Your Name
+    Email: propuskerworks@gmail.com
+    Date: 2015-02-18
+    Version: 1.0.0
+    Updates: 
+        - 2015-02-18: Initial version.
+        - 2017-08-23: Changed the log to just write whats necessary
+
 ﻿# Configuration Section
 $TargetURL = "google.com"                # URL to ping
 $LogFile = Join-Path -Path $PSScriptRoot -ChildPath "PingLog.txt" # Log file path in the same folder as the script
